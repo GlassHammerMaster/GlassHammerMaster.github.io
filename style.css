@@ -1,0 +1,15 @@
+body {
+	background-color: white;
+}
+h1 {
+	color: red;
+}
+p {
+	color: red;
+	border: 2px solid blue;
+	padding: 10 px;
+	margin: 10 px;
+}
+img {
+	border: 2px solid black;
+}
