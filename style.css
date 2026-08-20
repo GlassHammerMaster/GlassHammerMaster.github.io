@@ -2,13 +2,10 @@ body {
 	background-color: white;
 }
 h1 {
-	color: red;
+	color: black;
 }
 p {
-	color: red;
-	border: 2px solid blue;
-	padding: 10 px;
-	margin: 10 px;
+	color: black;
 }
 img {
 	border: 2px solid black;
