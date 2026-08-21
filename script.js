@@ -1,4 +1,4 @@
-const NGROL_URL = "https://botanical-onset-chief.ngrok-free.dev";
+const NGROK_URL = "https://botanical-onset-chief.ngrok-free.dev";
 
 async function sendDataToPC() {
 	const inputField = document.getElementById("userInput");
@@ -10,7 +10,7 @@ async function sendDataToPC() {
 	responseParagraph.innerText = "Sending to servers";
 
 	try {
-		const response = await fetch('${NGROK_URL}/api/submit', {
+		const response = await fetch(`${NGROK_URL}/api/submit`){
 			method: "POST",
 			headers: {
 				"Content-Type": "application/json",
