@@ -1,31 +1,31 @@
 body {
-	background-color: black;
+	background-color: white;
 }
 
 h1 {
-	color: white;
+	color: black;
 	font-family: Arial;
 }
 
 h2 {
-	color: white;
+	color: black;
 	font-family: Arial;
 }
 
 p {
-	color: white;
+	color: black;
 	font-family: Arial;
 }
 
 table {
-	color: white;
+	color: black;
 	border: 2px solid white;
 	text-align: left;
 	padding: 8px
 }
 
 td {
-	color: white;
+	color: black;
 	font-family: Arial;
 }
 
@@ -33,6 +33,6 @@ img {
 }
 
 li {
-	color: white;
+	color: black;
 	font-family: Arial;
 }
