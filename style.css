@@ -1,0 +1,38 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	color: black;
+	font-family: Arial;
+}
+
+h2 {
+	color: black;
+	font-family: Arial;
+}
+
+p {
+	color: black;
+	font-family: Arial;
+}
+
+table {
+	color: black;
+	border: 2px solid white;
+	text-align: left;
+	padding: 8px
+}
+
+td {
+	color: black;
+	font-family: Arial;
+}
+
+img {
+}
+
+li {
+	color: black;
+	font-family: Arial;
+}
